@@ -7,7 +7,7 @@ import java.awt.event.ActionListener;		//action 1(implements) ~implements Action
 import javax.swing.JButton;		//Buttons
 import javax.swing.JFrame;		//JFram+(Ctrl+space) 	~(Swing)
 import javax.swing.JLabel;		//JLabel+(Ctrl+space)
-import javax.swing.SwingConstants;		//displayLabel.setHorizontalAlignment+enter  
+import javax.swing.SwingConstants;		//displayLabel.setHorizontalAlignment+enter     
 
 public class Calculator implements ActionListener{
 	
